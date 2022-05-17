@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Posi Stage Net (PSN)",
+	"Description": "Integration of Posi Stage Net for Unreal Engine 4",
+	"Category": "Network",
+	"CreatedBy": "Royal Shakespeare Company",
+	"CreatedByURL": "https://www.rsc.org.uk/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PosiStageNet",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
