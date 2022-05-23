@@ -6,6 +6,8 @@
 
 > This plugin is built against PSN version 2.03
 
+> For commercial licensing please contact digital.dev@rsc.org.uk
+
 The Posi Stage Net (PSN) Integration for Unreal Engine supports both sending and receiving of PSN data.
 
 Both the sender and receiver are contained in a Game Instance Subsystem to ensure a single instance per session.
