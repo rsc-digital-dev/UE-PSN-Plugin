@@ -38,7 +38,7 @@ The PSN Helper is designed to provide an easy way to add location, rotation and 
 
 > It is located in /Blueprints/Helpers
 
-![PSN Helper Node Overview](Docs/Images/PSN_Helper.png?raw=true "PSN Helper Blueprint Node Overview")
+![PSN Helper Node Overview](Docs/Images/PSN_Helper.png?raw=false "PSN Helper Blueprint Node Overview")
 
 
 
