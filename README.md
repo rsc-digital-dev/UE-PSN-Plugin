@@ -35,7 +35,8 @@ The PSN received is a queued delegate system. You can bind to the OnTrackerRecei
 ### PSN Helper,
 The PSN Helper is designed to provide an easy way to add location, rotation and scale offsets, as well as swapping X,Y and Z.
 > There is a pre-defined one for MA Lighting consoles that swaps X and Y so the co-ordinate spaces are aligned.
-It is located in /Blueprints/Helpers
+
+> It is located in /Blueprints/Helpers
 
 ![PSN Helper Node Overview](Docs/Images/PSN_Helper.png?raw=true "PSN Helper Blueprint Node Overview")
 
