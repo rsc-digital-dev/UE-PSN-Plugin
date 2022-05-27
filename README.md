@@ -50,6 +50,6 @@ The plugin ships with 2 demo maps and some example blueprint setups. Check out t
 ```/PosiStageNet/Maps/```
 
 
-![PSN Sender Map](Docs/Images/Demo_Cubes.gif)
+![PSN Sender Map](Docs/Images/PSN_ScreenshotUE.png)
 
-![PSN Received](Docs/Images/Demo_GrandMA3.gif)
+![PSN Received](Docs/Images/PSN_ScreenshotMA3.png)
