@@ -48,3 +48,8 @@ After downloading and adding the plugin to your project/plugins folder (create i
 
 The plugin ships with 2 demo maps and some example blueprint setups. Check out the plugins content folder for these:
 ```/PosiStageNet/Maps/```
+
+
+![PSN Sender Map](Docs/Images/Demo_Cubes.gif?raw=true "PSN Sender Map")
+
+![PSN Received](Docs/Images/Demo_GrandMA3.gif?raw=true "PSN Received by external device")
