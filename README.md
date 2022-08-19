@@ -46,7 +46,7 @@ The PSN Helper is designed to provide an easy way to add location, rotation and 
 
 After downloading and adding the plugin to your project/plugins folder (create if necessary), restart the editor and you will will see the PSN plugin in your plugins list. 
 
-The plugin ships with 2 demo maps and some example blueprint setups. Check out the plugins content folder for these:
+The plugin ships with 2 demo maps and some example blueprint setups. Enable 'Show Plugin Content' in the Content Browser Settings and then check out the plugins content folder for these:
 ```/PosiStageNet/Maps/```
 
 
