@@ -31,8 +31,7 @@ public:
 	UPROPERTY(BlueprintReadWrite, Category = "PSN")
 	FVector Speed;
 
-	// #todo Fix
-	/** Tracker Rotation - CURRENTLY BROKEN */
+	/** Tracker Rotation */
 	UPROPERTY(BlueprintReadWrite, Category = "PSN")
 	FRotator Orientation;
 
@@ -216,22 +215,6 @@ public:
 	{
 		return Info == Other.Info && Data == Other.Data;
 	}
-
-	//// This will be depreciated once the subsystem fully replaces the standard  method
-	//FTracker GetAsTracker()
-	//{
-	//	FTracker Tracker;
-	//	Tracker.ID = Info.ID;
-	//	Tracker.Name = Info.Name;
-	//	Tracker.Acceleration = Data.Acceleration;
-	//	Tracker.Orientation = Data.Orientation;
-	//	Tracker.Position = Data.Position;
-	//	Tracker.Speed = Data.Speed;
-	//	Tracker.Status = Data.Status;
-	//	Tracker.TargetPosition = Data.TargetPosition;
-	//	Tracker.Timestamp = Header.Timestamp;
-	//	return Tracker;
-	//}
 
 	// Convert psn float3 into FVector
 	FORCEINLINE FVector Conv_Float3ToUnrealVector(psn::float3 inFloat3)
